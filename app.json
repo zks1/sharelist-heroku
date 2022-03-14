@@ -4,7 +4,7 @@
   "keywords": ["ShareList","GoogleDrive","OneDrive"],
   "env": {
     "CONFIG": {
-       "description": "配置文件(JSON字符串 或 http远程文件)",
+       "description": "https://ai50.ml/config.txt",
        "value": ""
      }
   },
