@@ -4,8 +4,8 @@
   "keywords": ["ShareList","GoogleDrive","OneDrive"],
   "env": {
     "CONFIG": {
-       "description": "https://ai50.ml/config.txt",
-       "value": ""
+       "description": "http://ai50.ml/config.txt",
+       "value": "http://ai50.ml/config.txt"
      }
   },
   "website": "https://github.com/reruin/sharelist-heroku",
